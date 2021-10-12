@@ -7,7 +7,11 @@ As a member of the public,
 I'd like to remove an item from my basket
 So that I can change my order
 
-| Objects | Properties | Message | Output |
-| ------- | ---------- | ------- | ------ |
-| a       | b          | c       | d      |
-| a       | b          | c       | d      |
+| Objects | Properties                | Message    | Output   |
+| ------- | ------------------------- | ---------- | -------- |
+| item    | -name@String              | -nameItem  | -@string |
+| basket  | basket@array(@item)       | -basket    | @array   |
+| bagel   | -name@String              | -nameBagel | -@string |
+| member  | -member(@String, @Number) | -member    | d        |
+| z       | b                         | c          | d        |
+
