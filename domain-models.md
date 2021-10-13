@@ -57,7 +57,7 @@ So that I can know how much my bagels are,
 
 | Objects | Properties | Message | Output |
 | ------- | ---------- | ------- | ------ |
-|         |            |         |        |
+|     item    |   -price(@number)         |   -checkPrice(@item)      |   @number     |
 
 ## User Story 7 
 As a member of the public,
@@ -66,4 +66,4 @@ So that I can prepare to pay
 
 | Objects | Properties | Message | Output |
 | ------- | ---------- | ------- | ------ |
-|         |            |         |        |
+|basket         |    -totalprice(@number)        |  -checkTotalPrice(@basket)       |@number        |
