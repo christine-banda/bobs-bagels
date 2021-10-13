@@ -47,3 +47,23 @@ So that I can maintain my sanity
 | ------- | ---------------------- | ------------------------ | -------- |
 | item    | -basket(@array[@item]) | -checkIfItemExist(@item) | @Boolean |
 
+
+# Part 3
+
+## User Story 6
+As a member of the public,
+I’d like to see the price of each item before I add it to my basket.
+So that I can know how much my bagels are,
+
+| Objects | Properties | Message | Output |
+| ------- | ---------- | ------- | ------ |
+|         |            |         |        |
+
+## User Story 7 
+As a member of the public,
+When I go to checkout I'd like to know the total sum of the bagels in my basket
+So that I can prepare to pay
+
+| Objects | Properties | Message | Output |
+| ------- | ---------- | ------- | ------ |
+|         |            |         |        |

@@ -42,5 +42,5 @@ So that I can know how much my bagels are,
 
 As a member of the public,
 When I go to checkout I'd like to know the total sum of the bagels in my basket
-So that I can prepare to pay
+So that I can prepare to pay    
 
